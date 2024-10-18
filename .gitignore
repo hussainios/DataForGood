@@ -54,6 +54,8 @@ dmypy.json
 
 # Ignore Data folder
 Data/
+shared_documents/
+shared_data_read_only/
 
 # Ignore Documentation folder
 Documentation/
