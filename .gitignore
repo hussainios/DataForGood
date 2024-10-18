@@ -54,3 +54,6 @@ dmypy.json
 
 # Ignore Data folder
 Data/
+
+# Ignore Documentation folder
+Documentation/
